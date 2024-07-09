@@ -23,7 +23,7 @@ function FilePreview({params}) {
     params?.fileId&&getFileInfo()
     console.log("File data "+File?.fileName)
 
-    setUrl(`https://dropit123.vercel.app/f/${params?.fileId}`)
+    setUrl(`https://dropit31.vercel.app/f/${params?.fileId}`)
   },[])
 
   const getFileInfo=async()=>{
