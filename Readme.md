@@ -29,7 +29,7 @@ This repository contains a file-sharing application built using Next.js, Firebas
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/praneeth622/file-sharing-app.git
+   git clone https://github.com/Praneeth514/Dropit
    cd file-sharing-app/file-sharing-app
    ```
 
